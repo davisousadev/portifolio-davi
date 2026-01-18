@@ -19,7 +19,7 @@ export function Inicio() {
         animate={{ opacity: 1, y: 10 }}
         transition={{ duration: 0.8 }}
       >
-        <div className="flex flex-col justify-center items-center text-center w-[60%] h-full">
+        <div className="flex flex-col w-full justify-center items-center text-center md:w-[60%] h-full">
           <h1 className="text-6xl font-bold max-lg:text-4xl text-lightBlack dark:text-white">Olá, eu sou</h1>
           <h2
             className={`text-6xl font-bold ${gradient.textGradientPrimary} mb-5 max-lg:text-4xl max-sm:text-3xl`}
@@ -59,7 +59,7 @@ export function Inicio() {
             </a>
           </div>
         </div>
-        <div className="w-[40%] h-full hidden lg:flex justify-center items-center">
+        <div className="w-[40%] h-full hidden md:flex justify-center items-center">
           <div className="relative w-[400px] h-[400px]">
             <Badges
               titulo="Solutions"
