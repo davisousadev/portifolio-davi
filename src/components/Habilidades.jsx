@@ -93,7 +93,7 @@ export function Habilidades() {
       className="bg-gradient-to-br from-blue-50 to-white dark:bg-gradient-to-br dark:from-gray-900 dark:to-gray-800 p-10 md:p-20"
     >
       <ScrollAnimation>
-        <h2 className="text-5xl font-bold text-center mb-5 max-sm:text-4xl dark:text-white">
+        <h2 className="text-5xl font-bold text-center mb-5 max-sm:text-4xl text-lightBlack dark:text-white">
           Habilidades Técnicas
         </h2>
         <p className="text-center mb-10 text-zinc-500 dark:text-gray-300 text-lg max-sm:text-sm">

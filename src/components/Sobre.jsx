@@ -11,7 +11,7 @@ export function Sobre() {
     <section id="sobre" className="p-10 md:p-20 w-full h-full dark:bg-gray-900">
       <ScrollAnimation className="flex flex-col items-center text-center">
         <div>
-          <h1 className="text-5xl font-bold max-sm:text-4xl dark:text-white">Sobre Mim</h1>
+          <h1 className="text-5xl font-bold max-sm:text-4xl text-lightBlack dark:text-white">Sobre Mim</h1>
           <p className="text-2xl mt-5 mb-7 max-w-[800px] text-gray-500 dark:text-gray-300 max-lg:text-lg max-sm:text-sm">
             Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre em
             busca de novos desafios e oportunidades para crescer.

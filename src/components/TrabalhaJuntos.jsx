@@ -43,7 +43,7 @@ export function TrabalharJuntos() {
     >
       <ScrollAnimation>
         <div className="flex flex-col items-center justify-center h-full">
-          <h1 className="text-5xl font-bold py-10 text-center w-full max-lg:text-4xl max-lg:py-5 dark:text-white">
+          <h1 className="text-5xl font-bold py-10 text-center w-full max-lg:text-4xl max-lg:py-5 dark:text-white text-lightBlack">
             Vamos Trabalhar Juntos
           </h1>
           <p className="text-2xl text-center text-zinc-500 dark:text-gray-300 max-w-1/2 mb-10 max-lg:text-lg max-md:text-sm max-sm:max-w-full">
@@ -53,7 +53,7 @@ export function TrabalharJuntos() {
         </div>
         <div className="grid grid-cols-2 gap-10 max-md:flex max-md:flex-col ">
           <div className="space-y-3 max-md:text-center">
-            <h2 className="text-4xl font-bold max-sm:text-3xl dark:text-white">
+            <h2 className="text-4xl font-bold max-sm:text-3xl text-lightBlack dark:text-white">
               Entre em Contato
             </h2>
             <p className="text-lg text-zinc-500 dark:text-gray-300 max-md:text-sm">
@@ -129,7 +129,7 @@ export function TrabalharJuntos() {
               onSubmit={sendEmail}
               className="p-10 bg-white dark:bg-gray-800 rounded-md w-full shadow-primary dark:shadow-gray-700 space-y-3 max-sm:p-5"
             >
-              <h2 className="font-bold text-2xl dark:text-white">Envie uma Mensagem</h2>
+              <h2 className="font-bold text-2xl dark:text-white text-lightBlack">Envie uma Mensagem</h2>
               <div className="grid grid-cols-2 gap-5 max-sm:grid-cols-1 max-sm:gap-3">
                 <Input
                   label={"Nome"}

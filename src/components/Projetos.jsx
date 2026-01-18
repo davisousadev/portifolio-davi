@@ -61,7 +61,7 @@ export function Projetos() {
   return (
     <section id="projetos" className="p-10 md:p-20 dark:bg-gray-900">
       <ScrollAnimation>
-        <h2 className="text-5xl font-bold text-center mb-3 max-sm:text-4xl dark:text-white">
+        <h2 className="text-5xl font-bold text-center mb-3 max-sm:text-4xl text-lightBlack dark:text-white">
           Projetos em Destaque
         </h2>
         <p className="text-zinc-500 dark:text-gray-300 text-lg text-center">
@@ -93,7 +93,7 @@ export function Projetos() {
           />
         </div>
         <ScrollAnimation>
-          <h2 className="py-5 text-4xl font-bold text-center max-sm:text-3xl dark:text-white">
+          <h2 className="py-5 text-4xl font-bold text-center max-sm:text-3xl text-lightBlack dark:text-white">
             Outros Projetos
           </h2>
           <Motion.div
