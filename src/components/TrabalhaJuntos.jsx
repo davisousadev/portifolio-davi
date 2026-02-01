@@ -97,7 +97,7 @@ export function TrabalharJuntos() {
             <div className="space-y-3">
               <h3 className="text-[18px] font-medium dark:text-white">Me encontre nas redes</h3>
               <div className="flex gap-2 max-md:justify-center">
-                <a href="https://github.com/daviiisousa" target="_blanck">
+                <a href="https://github.com/davisousadev" target="_blanck">
                   <IconButton
                     icon={
                       <FiGithub

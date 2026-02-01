@@ -45,7 +45,7 @@ export function Inicio() {
             </Button>
           </div>
           <div className="flex items-center my-5 gap-5">
-            <a href="https://github.com/daviiisousa" target="_blanck">
+            <a href="https://github.com/davisousadev" target="_blanck">
               <FaGithub className="text-gray-500 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors" size={45} />
             </a>
             <a

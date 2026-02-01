@@ -76,7 +76,7 @@ export function Projetos() {
             tecnologias={tecnologiasDesculpaAI}
             titulo={"Desculp.AI"}
             linkProjeto={"https://desculpai.vercel.app/"}
-            linkProjetoGithub={"https://github.com/daviiisousa/desculpai-web"}
+            linkProjetoGithub={"https://github.com/davisousadev/desculpai-web"}
           />
 
           <CardProjetos
@@ -88,7 +88,7 @@ export function Projetos() {
             tecnologias={tecnologiasAutomacaoCertificados}
             linkProjeto={"https://gerador-certificado-web.vercel.app/"}
             linkProjetoGithub={
-              "https://github.com/daviiisousa/gerador-certificado-web"
+              "https://github.com/davisousadev/gerador-certificado-web"
             }
           />
         </div>
@@ -129,7 +129,7 @@ export function Projetos() {
                   tecnologias={tecnologiasTodo}
                   linkProjeto={"https://todo-tarefa.vercel.app/"}
                   linkProjetoGithub={
-                    "https://github.com/daviiisousa/Todo-tarefa"
+                    "https://github.com/davisousadev/Todo-tarefa"
                   }
                 />
               </div>
@@ -144,7 +144,7 @@ export function Projetos() {
                   tecnologias={tecnologiasUserLogin}
                   linkProjeto={"https://user-login-one.vercel.app/"}
                   linkProjetoGithub={
-                    "https://github.com/daviiisousa/User-Login"
+                    "https://github.com/davisousadev/User-Login"
                   }
                 />
               </div>
@@ -159,7 +159,7 @@ export function Projetos() {
                   tecnologias={tecnologiasTicketGeneretor}
                   linkProjeto={"https://ticket-generator-kappa.vercel.app/"}
                   linkProjetoGithub={
-                    "https://github.com/daviiisousa/Ticket-generator.git"
+                    "https://github.com/davisousadev/Ticket-generator.git"
                   }
                 />
               </div>
@@ -173,7 +173,7 @@ export function Projetos() {
                   tecnologias={tecnologiasPortifolio}
                   linkProjeto={"https://portifolio-davi-rose.vercel.app/"}
                   linkProjetoGithub={
-                    "https://github.com/daviiisousa/portifolio-davi"
+                    "https://github.com/davisousadev/portifolio-davi"
                   }
                 />
               </div>
@@ -187,7 +187,7 @@ export function Projetos() {
                   tecnologias={tecnologiasPortifolio}
                   linkProjeto={"https://poc-r3f-framer.vercel.app/"}
                   linkProjetoGithub={
-                    "https://github.com/daviiisousa/poc-R3f-Framer"
+                    "https://github.com/davisousadev/poc-R3f-Framer"
                   }
                 />
               </div>
@@ -201,7 +201,7 @@ export function Projetos() {
                   tecnologias={["JavaScript", "API de Clima", "CSS", "html"]}
                   linkProjeto={"https://weather-app-main-flax.vercel.app/"}
                   linkProjetoGithub={
-                    "https://github.com/daviiisousa/weather-app-main"
+                    "https://github.com/davisousadev/weather-app-main"
                   }
                 />
               </div>
